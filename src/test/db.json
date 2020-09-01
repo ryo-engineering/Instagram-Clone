@@ -1,0 +1,80 @@
+{
+	"getUsers": {
+		"usersInfo": [
+			{
+				"accountName": "accountName",
+				"userName": "userName"
+			},
+			{
+				"accountName": "accountName",
+				"userName": "userName"
+			},
+			{
+				"accountName": "accountName",
+				"userName": "userName"
+			},
+			{
+				"accountName": "accountName",
+				"userName": "userName"
+			}
+		]
+	},
+	"getPhotos": {
+		"photos": [
+			{
+				"userName": "user name",
+				"images": [
+					"https://unsplash.it/630/400",
+					"http://placeimg.com/630/400/people",
+					"https://unsplash.it/630/400"
+				],
+				"likedInfo": "username、他1.5万人が「いいね！」しました",
+				"detail": "写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。"
+			},
+			{
+				"userName": "user name",
+				"images": [
+					"https://unsplash.it/630/400",
+					"http://placeimg.com/630/400/people",
+					"https://unsplash.it/630/400"
+				],
+				"likedInfo": "username、他1.5万人が「いいね！」しました",
+				"detail": "写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。"
+			},
+			{
+				"userName": "user name",
+				"images": [
+					"https://unsplash.it/630/400",
+					"http://placeimg.com/630/400/people",
+					"https://unsplash.it/630/400"
+				],
+				"likedInfo": "username、他1.5万人が「いいね！」しました",
+				"detail": "写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。写真の説明です。"
+			}
+		]
+	},
+	"getOffers": {
+		"userInfoList": [
+			{
+				"account": "account",
+				"accountName": "account name"
+			},
+			{
+				"account": "account",
+				"accountName": "account name"
+			},
+			{
+				"account": "account",
+				"accountName": "account name"
+			},
+			{
+				"account": "account",
+				"accountName": "account name"
+			},
+			{
+				"account": "account",
+				"accountName": "account name"
+			}
+		]
+	}
+}
